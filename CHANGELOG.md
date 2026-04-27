@@ -6,3 +6,4 @@
 - [Issue #1] Estructura de carpetas para documentación (docs, informes, resultados).
 - [Issue #1] Cascarón inicial de aplicación móvil en React Native (Expo).
 - [Issue #1] Configuración de .gitignore para entornos Java y JavaScript.
+- [Issue #5] Botón de login ahora tiene estilos azules.
