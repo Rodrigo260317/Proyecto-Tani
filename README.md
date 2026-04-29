@@ -1,53 +1,3 @@
-# Welcome to your Expo app 👋
-
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 
 ---
 
@@ -96,3 +46,23 @@ El proyecto se fundamenta en el desarrollo de aplicaciones multiplataforma utili
 
 ## Palabras Clave
 React Native, Expo, Desarrollo Móvil, Gestión, Salud Familiar, Gitflow.
+Proyecto-Tani/
+├── README.md                # Corazón del proyecto y guía de presentación [cite: 20, 122]
+├── .gitignore               # Exclusiones de archivos temporales y dependencias [cite: 21, 123]
+├── LICENSE                  # Licencia del proyecto [cite: 29, 124]
+├── docs/                    # Núcleo de la documentación académica [cite: 31, 125]
+│   ├── 01_requisitos.md     # Definición de requisitos funcionales y no funcionales [cite: 22, 130]
+│   ├── 02_conflictos.md     # Informe detallado de resolución de Merge Conflicts [cite: 35]
+│   ├── 03_marco_teorico.md  # Fundamentación teórica y estado del arte [cite: 132]
+│   ├── 04_metodologia.md    # Descripción del enfoque de investigación y SDLC [cite: 133]
+│   └── 05_cronograma.md     # Planificación de actividades (Diagrama de Gantt) [cite: 134]
+├── src/                     # Código fuente de la aplicación (React Native/Expo) [cite: 41, 129]
+│   ├── app/                 # Vistas y navegación de ConnecTani
+│   ├── components/          # Componentes reutilizables de la interfaz
+│   └── assets/              # Recursos visuales e imágenes del sistema
+├── informes/                # Carpeta de entregables formales en PDF [cite: 46, 149]
+│   ├── informe_apf1.pdf     # Entrega oficial del Hito 1 [cite: 49, 150]
+│   └── informe_final.pdf    # Reporte integral del proyecto [cite: 152]
+└── resultados/              # Evidencias visuales y reportes de CI [cite: 52, 145]
+    ├── capturas_pantalla/   # Screenshots de la aplicación funcionando [cite: 55]
+    └── resumen_ci.md        # Reporte de integración continua (Hito 3) [cite: 56]
