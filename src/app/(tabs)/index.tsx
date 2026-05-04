@@ -12,7 +12,7 @@ const BABY_IMG = { uri: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAeX
 
 export default function HomeScreen() {
   const router = useRouter();
-
+<Text style={{color: 'red'}}>SISTEMA EN MANTENIMIENTO</Text>.
   return (
     <SafeAreaView style={styles.safeArea} edges={['top']}>
       {/* TopAppBar */}
